@@ -1,0 +1,1 @@
+---insert into users(email) values ('load.script@fucking.com')
